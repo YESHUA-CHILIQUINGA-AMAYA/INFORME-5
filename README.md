@@ -166,6 +166,8 @@ R= No se incluye induce voltaje porque para producir se necesita un apéndice el
 
 ### 4. VIDEO
 
+https://youtu.be/wqZ-wKSv3kU
+
 ### 5. CONCLUSIONES
 
 * Mediante el estudio del método de la corriente en ramas, se puede llegar a encontrar valores desconocidos se encuentran en un circuito eléctrico.
